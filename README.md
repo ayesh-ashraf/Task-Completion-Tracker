@@ -58,8 +58,7 @@ This workflow can be customized for many real-life scenarios:
 Google Sheets Trigger ➜ Get Row(s) in Sheet ➜ IF ➜ Update Row in Sheet ➜ Send a Message (Gmail)
 
 ##  **Video Demonstration**
-
-👉 *Watch the workflow in action here:*  
+ *Watch the workflow in action here:*  
 [Watch the demo video here](https://youtu.be/ctg4MFrOSaQ)
 
 
